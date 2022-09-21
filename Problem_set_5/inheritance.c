@@ -1,4 +1,5 @@
 // Simulate genetic inheritance of blood type
+// I coded the create_family and free_family functions
 
 #include <stdbool.h>
 #include <stdio.h>
